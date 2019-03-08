@@ -1,0 +1,12 @@
+.product-img {
+    width: 80%;
+
+}
+
+.product-img:hover {
+    background: #c7bdbd;
+    opacity: 0.7;
+    width: 90%;
+    
+}
+
